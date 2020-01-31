@@ -1,11 +1,11 @@
 **Table Of Contents:**
-A) Concept
-B) Technologies Used
-C) Setup
-D) Getting started
-E) Prerequisites
-F) Hardware used
-G) General instructions
+- Concept
+- Technologies Used
+- Setup
+- Getting started
+- Prerequisites
+- Hardware used
+- General instructions
 
 **Concept:**
 This project is to obtain signals from brain using EEG Headset and provide to Raspberry Pi via Bluetooth interface for controlling motions of wheelchair using Attention Level and Blinking Strength Parameters.
