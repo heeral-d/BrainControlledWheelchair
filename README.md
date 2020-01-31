@@ -1,4 +1,4 @@
-Table Of Contents:
+**Table Of Contents:**
 A) Concept
 B) Technologies Used
 C) Setup
@@ -7,29 +7,30 @@ E) Prerequisites
 F) Hardware used
 G) General instructions
 
-Concept:
+**Concept:**
 This project is to obtain signals from brain using EEG Headset and provide to Raspberry Pi via Bluetooth interface for controlling motions of wheelchair using Attention Level and Blinking Strength Parameters.
 
-Technologies Used:
+**Technologies Used:**
 Python 2.7
 EEG Headset
 
-Setup:
+**Setup:**
 motor.py - for controlling the motors
 ultrasonic.py - for obstacle detection using ultrasonic sensor
 blink.py - for detecting eye-blinks
 run.py - all above codes are imported and integrated with attention level of the patient to control motion of the wheelchair
 
-Getting started:
+**Getting started:**
 These instruction will get you a copy of the project up and running on your local machine for development and testing purpose. 
 
-Prerequisities:
+**Prerequisities:**
 Sound knowledge of python programming
 Good grip in using Rpi
 
-Hardware used: Raspberry pi 3B+, Neurosky Mindwave mobile 2, ultronosic sensor, gyroscope, motor driver and DC motors   
+**Hardware used:**
+Raspberry pi 3B+, Neurosky Mindwave mobile 2, ultronosic sensor, gyroscope, motor driver and DC motors   
 
-General instructions:
+**General instructions:**
 1.  Boot the rpi by installing an OS in it. Preferablly Rasbian
 2.  Once booted, open Python IDE
 3.  Start writing the code/editing
